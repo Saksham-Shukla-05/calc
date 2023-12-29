@@ -71,7 +71,7 @@ body{
     align-items: center;
     font-size: 25px;
     cursor: pointer;
-    border: 2px solid white;
+    border: 3px solid white;
 }
 .operations_equal{
     background-color: orange;
@@ -84,5 +84,5 @@ body{
     font-size: 25px;
     grid-row-start: 2;
     grid-row-end: 6;
-    border: 2px solid white;
+    border: 3px solid white;
 }
